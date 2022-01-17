@@ -9,3 +9,5 @@ On running the file - "Final Code.ipynb", the user will be asked to input a pdf 
 After uploading the file, the file will be stored in a folder in the specified directory. Here the parent directory was taken as '/Users/gauthammallipeddi/Docs/College/'. Therefore, all the folders created will be created in this directory only.
 
 The code first converts the pdf uploaded to images and extracts all the words from the images removing all the stop words and tokenizing the important words. The tokenized words are then mapped to the words that appear in the syllabus sheet. The unit that matches with most words in the pdf is identified as the appropriate unit and moved to a folder of the subject containing that particular unit.
+
+YouTube [Demo](https://www.youtube.com/watch?v=U67uH5WA0Fg)
